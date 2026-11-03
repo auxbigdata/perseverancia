@@ -1,0 +1,197 @@
+{
+  "fuente": "NASA/JPL-Caltech · API de imágenes crudas de Mars 2020 (mars.nasa.gov/rss/api)",
+  "descargado": "2026-11-03T20:43:12.993Z",
+  "camaras": {
+    "Mastcam_Z_cams": {
+      "nombre": "Mastcam-Z",
+      "fotos": [
+        {
+          "archivo": "Mastcam_Z_cams_2022_20.jpg",
+          "sol": 2022,
+          "fecha_utc": "2026-10-28T07:39:49.151Z",
+          "descripcion": "Una roca que Percy raspó: la mancha clara es su interior, limpio de polvo.",
+          "instrumento": "MCZ_LEFT",
+          "id": "ZL0_2022_0846443668_928EBY_N0920000ZCAM04497_1100LMJ",
+          "credito": "NASA/JPL-Caltech/ASU"
+        },
+        {
+          "archivo": "Mastcam_Z_cams_2023_12.jpg",
+          "sol": 2023,
+          "fecha_utc": "2026-10-29T08:47:15.869Z",
+          "descripcion": "Rocas claras y quebradas, de cerca, sobre la arena rojiza.",
+          "instrumento": "MCZ_LEFT",
+          "id": "ZL0_2023_0846534114_973EBY_N0930000ZCAM04499_1100LMJ",
+          "credito": "NASA/JPL-Caltech/ASU"
+        },
+        {
+          "archivo": "Mastcam_Z_cams_2023_14.jpg",
+          "sol": 2023,
+          "fecha_utc": "2026-10-29T08:36:07.873Z",
+          "descripcion": "Un bloque de roca agrietado, visto de cerca con el zoom.",
+          "instrumento": "MCZ_LEFT",
+          "id": "ZL0_2023_0846533437_473EBY_N0930000ZCAM10057_1100LMJ",
+          "credito": "NASA/JPL-Caltech/ASU"
+        },
+        {
+          "archivo": "Mastcam_Z_cams_2022_21.jpg",
+          "sol": 2022,
+          "fecha_utc": "2026-10-28T07:37:56.151Z",
+          "descripcion": "Rocas oscuras y claras juntas en el suelo marciano.",
+          "instrumento": "MCZ_LEFT",
+          "id": "ZL0_2022_0846443512_035EBY_N0920000ZCAM10056_1100LMJ",
+          "credito": "NASA/JPL-Caltech/ASU"
+        },
+        {
+          "archivo": "Mastcam_Z_cams_2024_28.jpg",
+          "sol": 2024,
+          "fecha_utc": "2026-10-30T09:21:51.579Z",
+          "descripcion": "Una roca grande y llena de grietas, a pocos metros del rover.",
+          "instrumento": "MCZ_RIGHT",
+          "id": "ZR0_2024_0846622583_145EBY_N0930000ZCAM10058_1100LMJ",
+          "credito": "NASA/JPL-Caltech/ASU"
+        }
+      ]
+    },
+    "NavCams": {
+      "nombre": "Navcam",
+      "fotos": [
+        {
+          "archivo": "NavCams_2018_26.jpg",
+          "sol": 2018,
+          "fecha_utc": "2026-10-24T05:33:02.240Z",
+          "descripcion": "Una rueda de Percy, sus huellas en la arena y una roca raspada (la mancha blanca).",
+          "instrumento": "NAVCAM_LEFT",
+          "id": "NLF_2018_0846090470_395ECM_N0920000NCAM00709_03_095J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "NavCams_2022_10.jpg",
+          "sol": 2022,
+          "fecha_utc": "2026-10-28T11:00:30.791Z",
+          "descripcion": "Una colina marciana bajo el cielo color caramelo.",
+          "instrumento": "NAVCAM_LEFT",
+          "id": "NLF_2022_0846455714_722ECM_N0930000NCAM13022_01_195J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "NavCams_2022_9.jpg",
+          "sol": 2022,
+          "fecha_utc": "2026-10-28T11:01:56.490Z",
+          "descripcion": "Mirando a lo lejos: llanura con piedras y colinas en el horizonte.",
+          "instrumento": "NAVCAM_LEFT",
+          "id": "NLF_2022_0846455800_722ECM_N0930000NCAM13022_01_195J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "NavCams_2022_7.jpg",
+          "sol": 2022,
+          "fecha_utc": "2026-10-28T11:07:05.389Z",
+          "descripcion": "La cubierta del rover en primer plano y el terreno hasta el horizonte.",
+          "instrumento": "NAVCAM_LEFT",
+          "id": "NLF_2022_0846456110_237ECM_N0930000NCAM02022_01_195J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "NavCams_2022_11.jpg",
+          "sol": 2022,
+          "fecha_utc": "2026-10-28T10:59:00.582Z",
+          "descripcion": "Parte del rover y las montañas lejanas.",
+          "instrumento": "NAVCAM_LEFT",
+          "id": "NLF_2022_0846455625_722ECM_N0930000NCAM13022_01_195J",
+          "credito": "NASA/JPL-Caltech"
+        }
+      ]
+    },
+    "hazcams_front": {
+      "nombre": "Hazcam delantera",
+      "fotos": [
+        {
+          "archivo": "hazcams_front_2023_0.jpg",
+          "sol": 2023,
+          "fecha_utc": "2026-10-29T13:07:42.945Z",
+          "descripcion": "El brazo robótico sobre el suelo, con montañas al fondo.",
+          "instrumento": "FRONT_HAZCAM_LEFT_A",
+          "id": "FLF_2023_0846549745_302ECM_N0930000FHAZ00206_01_295J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "hazcams_front_2005_11.jpg",
+          "sol": 2005,
+          "fecha_utc": "2026-10-11T00:47:10.535Z",
+          "descripcion": "El brazo trabajando en el suelo; abajo se ven las huellas de las ruedas.",
+          "instrumento": "FRONT_HAZCAM_LEFT_A",
+          "id": "FLF_2005_0844950125_865ECM_N0910970FHAZ00206_01_295J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "hazcams_front_2008_9.jpg",
+          "sol": 2008,
+          "fecha_utc": "2026-10-14T01:08:01.076Z",
+          "descripcion": "La punta del brazo, con su taladro, muy cerca del suelo.",
+          "instrumento": "FRONT_HAZCAM_LEFT_A",
+          "id": "FLF_2008_0845210575_196ECM_N0911496FHAZ00206_01_295J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "hazcams_front_2018_3.jpg",
+          "sol": 2018,
+          "fecha_utc": "2026-10-24T05:34:46.324Z",
+          "descripcion": "El camino por delante: piedras y lomas hasta el horizonte.",
+          "instrumento": "FRONT_HAZCAM_LEFT_A",
+          "id": "FLF_2018_0846090574_426ECM_N0920000FHAZ02008_04_095J",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "hazcams_front_2006_10.jpg",
+          "sol": 2006,
+          "fecha_utc": "2026-10-11T22:49:10.061Z",
+          "descripcion": "Una roca enorme justo frente a las ruedas.",
+          "instrumento": "FRONT_HAZCAM_LEFT_A",
+          "id": "FLF_2006_0845029445_816ECM_N0911496FHAZ02008_09_095J",
+          "credito": "NASA/JPL-Caltech"
+        }
+      ]
+    },
+    "WATSON": {
+      "nombre": "WATSON",
+      "fotos": [
+        {
+          "archivo": "WATSON_2019_3.jpg",
+          "sol": 2019,
+          "fecha_utc": "2026-10-25T08:01:52.101Z",
+          "descripcion": "El agujero que dejó el taladro de Percy en una roca.",
+          "instrumento": "SHERLOC_WATSON",
+          "id": "SIF_2019_0846185766_167EBY_N0920000SRLC00878_0000LMJ",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "WATSON_2023_0.jpg",
+          "sol": 2023,
+          "fecha_utc": "2026-10-29T13:12:46.007Z",
+          "descripcion": "La textura de una roca vista con lupa: granos y huecos.",
+          "instrumento": "SHERLOC_WATSON",
+          "id": "SIF_2023_0846550026_515EBY_N0930000SRLC00630_0000LMJ",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "WATSON_2014_8.jpg",
+          "sol": 2014,
+          "fecha_utc": "2026-10-20T02:44:51.526Z",
+          "descripcion": "Superficie de roca anaranjada vista de muy cerca.",
+          "instrumento": "SHERLOC_WATSON",
+          "id": "SIF_2014_0845734757_847EBY_N0920000SRLC00642_0000LMJ",
+          "credito": "NASA/JPL-Caltech"
+        },
+        {
+          "archivo": "WATSON_2014_7.jpg",
+          "sol": 2014,
+          "fecha_utc": "2026-10-20T02:50:14.524Z",
+          "descripcion": "Detalle de una roca clara con vetas, a pocos centímetros.",
+          "instrumento": "SHERLOC_WATSON",
+          "id": "SIF_2014_0845735079_058EBY_N0920000SRLC00741_0000LMJ",
+          "credito": "NASA/JPL-Caltech"
+        }
+      ]
+    }
+  }
+}
