@@ -37,6 +37,7 @@ El proyecto está pensado para hacerse en **una clase de 60 minutos**, de forma 
 > Aquí se va guardando todo lo que hacemos durante la clase de hoy.
 
 - [x] Creado el `CLAUDE.md` con la descripción del proyecto y el plan de la clase
+- [x] Instalado GitHub CLI, login con la cuenta `auxbigdata` y creado el repo público https://github.com/auxbigdata/perseverancia (identidad de commits: correo noreply de GitHub, solo en este proyecto)
 - [ ] Escena base con Three.js
 - [ ] Terreno marciano
 - [ ] Modelo del rover Perseverance
